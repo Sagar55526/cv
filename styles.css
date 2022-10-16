@@ -1,0 +1,23 @@
+body {
+  background-color: #D7C0AE;
+}
+
+h1 {
+  color: #874C62;
+  text-decoration: #7D6E83 underline;
+  text-decoration-thickness: 2px;
+}
+
+h3 {
+  color: #874C62;
+  text-decoration: #7D6E83 underline;
+  text-decoration-thickness: 2px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:10%;
+}
